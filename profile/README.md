@@ -1,12 +1,52 @@
-## InQ 👋
+# InQ 👋
 
-<!--
+---
 
-**Here are some ideas to get you started:**
+![InQ 로고](https://github.com/user-attachments/assets/7fa4408c-5235-469f-9255-de22a20ef2f6)
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+---
+
+## 🌟 Q. InQ ?
+
+1. InQ는 **AI컴퓨터공학부 학술 동아리**입니다.
+2. 현재 **Frontend, Backend, App** 직군의 학우들이 모여 개발을 진행하고 있습니다.
+3. **특정 커리큘럼**을 따르기보다는, 팀 프로젝트 및 자율적인 학습 방식을 지향합니다.
+4. **개발**을 좋아하는 학생들이 모여 다양한 기술 스택을 공유하고 성장할 수 있는 동아리입니다.
+
+---
+
+## 💡 활동 내용
+
+### 1. 개발 파티원 모집
+- 거북이 및 디딤돌 프로젝트
+- 캡스톤 및 상상기업 지원
+- 컨퍼런스 및 부트캠프 참여
+
+### 2. 동아리 정기 콘텐츠
+- 자율 스터디
+- 학습 방향 멘토링
+- 인큐톤 (인큐 해커톤)
+- 모각코 (모여서 각자 코딩)
+
+### 3. 부원 간 활발한 교류
+- 성과 발표회
+- 개발 지식 공유
+- 졸업 선배님들과의 연사 교류
+
+### 4. 친목 활동
+- MT
+- 동아리 회식
+- 다양한 취미 활동
+
+---
+
+## 🛠️ Executives
+24 - 박성민(20), 한유진(23), 정재우(19), 신현호(19), 김민상(20), 송재훈(20), 심규선(20), 임현서(20), 장혜정(21), 박시영(20)
+
+---
+
+## 📱 Connect Me
+
+- [Open KakaoTalk](https://open.kakao.com/o/gzQEbQSf)
+
+---
