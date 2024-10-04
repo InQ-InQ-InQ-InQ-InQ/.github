@@ -52,7 +52,7 @@
 ### 4기
 👑박성민(20) 👑한유진(23) 정재우(19) 신현호(19) 김민상(20) 송재훈(20) 심규선(20) 임현서(22) 장혜정(21) 박시영(20)
 
-## 📱 Connect With Us
+## 📱 About Us
 <a href="https://www.instagram.com/inq_inq_inq"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white"/></a>
 <a href="https://open.kakao.com/o/gzQEbQSf"><img src="https://img.shields.io/badge/KakaoTalk-FFCD00?style=flat-square&logo=KakaoTalk&logoColor=black"/></a>
 <a href="https://www.notion.so/inq-inq"><img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white"/></a>
