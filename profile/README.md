@@ -54,6 +54,8 @@
 
 
 
-## 📱 Connect Me
+## 📱 Connect With Us
 - [Open KakaoTalk](https://open.kakao.com/o/gzQEbQSf)
-
+<a href="https://www.notion.so/inq-inq"><img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white"/></a>
+<a href="https://github.com/InQ-InQ-InQ-InQ-InQ"><img src="https://img.shields.io/badge/Github-181717?style=flat-square&logo=Github&logoColor=white"/></a>
+<a href="https://www.instagram.com/inq_inq_inq"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white"/></a>
